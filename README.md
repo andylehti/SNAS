@@ -1,5 +1,6 @@
 # SNAS
-[SWAP NEWLINE AND SPACE] - Losslessly Swap Newline and Space (Linux/Ubuntu CLI Command)
+###SWAP NEWLINE AND SPACE
+Losslessly Swap Newline and Space (Linux/Ubuntu CLI Command)
 
 This is a Python script that allows you to swap spaces and newlines in any given text file, or restore them back to their original state.
 
