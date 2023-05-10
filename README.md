@@ -15,7 +15,7 @@ This is a Python script that allows you to swap spaces and newlines in any given
 2. Open a terminal and navigate to the directory where the script is located.
 
 ## Usage
-1. In the terminal, run the script by typing `python swap_spaces_newlines.py`.
+1. In the terminal, run the script by typing `python snas.py`.
 2. Enter the path to the file you want to process when prompted.
 3. Choose the operation you want to perform (swap or restore).
 4. The processed file will be saved with the suffix "_processed_swap.txt" or "_processed_restore.txt" in the same directory as the original file.
